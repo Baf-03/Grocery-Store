@@ -49,7 +49,7 @@ let products = [
   },
   {
     name: 'Strawberry Jam',
-    tag: 'image/jam.jpg',
+    tag: 'image/Jam.jpg',
     price: 350,
     incart: 0,
   }]
