@@ -190,7 +190,7 @@ function display(){
             Basket Total
              </h4>
              <h4 class="basketTotal">
-                $${cartCost}
+                PKR ${cartCost}
             </h4>
              </div>`
 
